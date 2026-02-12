@@ -17,6 +17,7 @@ public class UtilizaUsuarioComArquivos {
         repositorioDeUsuarioEmArquivo.cadastrarUsuario(new Usuario("123.456.789-00", "Don",
                 LocalDate.parse("2004-10-15"), "don@gmail.com"));
 
-        System.out.println(repositorioDeUsuarioEmArquivo.listarTodos());
+//        System.out.println(repositorioDeUsuarioEmArquivo.listarTodos());
+        repositorioDeUsuarioEmArquivo.gravaEmArquivo("usuarios.txt");
     }
 }
