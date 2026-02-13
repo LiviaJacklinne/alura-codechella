@@ -1,7 +1,7 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application.usuario;
 
-import br.com.alura.codechella.application.usuario.DadosCadastroUsuario;
-import br.com.alura.codechella.application.usuario.DadosUsuario;
+import br.com.alura.codechella.infra.usuario.Usuario;
+import br.com.alura.codechella.infra.usuario.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.domain.evento;
 
 public enum Categoria {
     FESTIVAL,

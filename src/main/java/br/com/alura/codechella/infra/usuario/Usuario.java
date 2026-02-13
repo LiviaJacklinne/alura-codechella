@@ -1,5 +1,6 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.infra.usuario;
 
+import br.com.alura.codechella.infra.venda.Venda;
 import br.com.alura.codechella.application.usuario.DadosCadastroUsuario;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Entity;

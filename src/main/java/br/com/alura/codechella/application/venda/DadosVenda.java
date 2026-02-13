@@ -1,4 +1,7 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application.venda;
+
+import br.com.alura.codechella.application.ingresso.DadosTipoIngresso;
+import br.com.alura.codechella.application.usuario.DadosUsuario;
 
 import java.util.List;
 

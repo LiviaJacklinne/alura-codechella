@@ -1,5 +1,6 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.infra.ingresso;
 
+import br.com.alura.codechella.infra.venda.Venda;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

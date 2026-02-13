@@ -1,4 +1,4 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.infra.ingresso;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

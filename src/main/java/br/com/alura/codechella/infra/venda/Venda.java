@@ -1,5 +1,7 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.infra.venda;
 
+import br.com.alura.codechella.infra.ingresso.Ingresso;
+import br.com.alura.codechella.infra.usuario.Usuario;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;

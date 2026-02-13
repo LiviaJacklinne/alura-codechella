@@ -1,4 +1,4 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application;
 
 public class ValidacaoException extends RuntimeException {
     public ValidacaoException(String mensagem) {

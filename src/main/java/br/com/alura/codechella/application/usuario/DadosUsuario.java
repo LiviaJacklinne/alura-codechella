@@ -1,4 +1,4 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application.usuario;
 
 import java.time.LocalDate;
 

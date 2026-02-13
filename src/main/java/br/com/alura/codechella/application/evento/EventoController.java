@@ -1,4 +1,4 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application.evento;
 
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

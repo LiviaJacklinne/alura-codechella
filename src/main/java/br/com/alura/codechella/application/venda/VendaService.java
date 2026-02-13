@@ -1,8 +1,14 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application.venda;
 
-import br.com.alura.codechella.application.venda.DadosCadastroVenda;
+import br.com.alura.codechella.application.ingresso.DadosTipoIngresso;
 import br.com.alura.codechella.application.usuario.DadosUsuario;
-import br.com.alura.codechella.application.venda.DadosVenda;
+import br.com.alura.codechella.infra.ingresso.Ingresso;
+import br.com.alura.codechella.infra.ingresso.Tipo;
+import br.com.alura.codechella.infra.ingresso.TipoRepository;
+import br.com.alura.codechella.infra.usuario.Usuario;
+import br.com.alura.codechella.infra.usuario.UsuarioRepository;
+import br.com.alura.codechella.infra.venda.Venda;
+import br.com.alura.codechella.infra.venda.VendaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

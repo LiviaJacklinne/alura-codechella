@@ -1,5 +1,7 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.infra.evento;
 
+import br.com.alura.codechella.domain.evento.Categoria;
+import br.com.alura.codechella.infra.ingresso.Tipo;
 import br.com.alura.codechella.application.evento.DadosCadastroEvento;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Embedded;

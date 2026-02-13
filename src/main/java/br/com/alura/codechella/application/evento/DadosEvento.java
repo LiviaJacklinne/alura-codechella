@@ -1,4 +1,7 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application.evento;
+
+import br.com.alura.codechella.domain.evento.Categoria;
+import br.com.alura.codechella.application.ingresso.DadosCadastroTipoIngresso;
 
 import java.time.LocalDateTime;
 import java.util.List;

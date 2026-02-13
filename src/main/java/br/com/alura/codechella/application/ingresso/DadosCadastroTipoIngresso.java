@@ -1,5 +1,7 @@
-package br.com.alura.codechella;
+package br.com.alura.codechella.application.ingresso;
 
+import br.com.alura.codechella.domain.ingresso.Definicao;
+import br.com.alura.codechella.domain.ingresso.Setor;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 
