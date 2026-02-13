@@ -1,5 +1,6 @@
 package br.com.alura.codechella;
 
+import br.com.alura.codechella.application.usuario.DadosCadastroUsuario;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

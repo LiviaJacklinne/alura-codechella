@@ -1,5 +1,6 @@
 package br.com.alura.codechella;
 
+import br.com.alura.codechella.application.evento.DadosCadastroEvento;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
